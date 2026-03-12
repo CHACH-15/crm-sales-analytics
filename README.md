@@ -74,5 +74,5 @@ This project analyzes a CRM sales dataset from Kaggle to uncover patterns in sal
 
 
 **Chahd**
-📧 your-email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+📧 moussaouichahd636@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/chahd-moussaoui-5501302b6/)
